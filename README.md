@@ -1,5 +1,5 @@
 # Ggithubb
-# welcome  to my website
+# WELCOME TO MY WEBSITE.....
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
