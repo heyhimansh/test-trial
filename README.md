@@ -19,7 +19,6 @@
 <iframe src="https://open.spotify.com/embed/playlist/0WKxzctYoRaxeaBVlUV1eV" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
-
 <h1 align="center">Awesome GitHub Profile README</h1>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
